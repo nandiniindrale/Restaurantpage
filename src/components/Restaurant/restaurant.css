@@ -1,0 +1,144 @@
+
+.maxwidth {
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px; 
+}
+
+.collection-title {
+    font-size: 24px; 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+}
+
+.collection-subtitle {
+    font-size: 18px; 
+    margin-bottom: 10px; 
+}
+
+.restaurant-items {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-between; 
+}
+
+.restaurant-item {
+    width: calc(25% - 20px); 
+    margin-bottom: 20px; 
+    box-sizing: border-box;
+}
+
+.restaurant-item img {
+    width: 100%; 
+    height: auto; 
+    margin-bottom: 10px; 
+}
+
+.view-all-button {
+    margin-top: 20px; 
+    text-align: right; 
+    cursor: pointer; 
+    color: #007bff; 
+    margin-bottom:30px;
+}
+
+.view-all-button:hover {
+    text-decoration: underline; 
+}
+
+.restaurant-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  @media screen and (max-width: 600px) {
+    .restaurant-item {
+        width: calc(50% - 20px);
+    }
+}
+
+.search-input {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  .search-input:focus {
+    border-color: #007bff; /* Change border color when input is focused */
+  }
+
+  .header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+  
+  .header-logo {
+    height: 27px;
+    max-width: 140px;
+    margin-right: 24px;
+  }
+  
+  .header-right {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+    height: 72px;
+  }
+  
+  .header-location-search-container {
+    height: 54px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: var(--primary-box-shadow);
+    border: 1px solid var(--border-white);
+    width: 70%;
+    background-color: var(--primary-bg);
+  }
+  
+  .header-searchbar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .search-input {
+    border: none;
+    outline: none;
+    flex: 1; 
+    font-size: 14px;
+    padding-right: 30px; 
+  }
+  
+  .filter-icon {
+    font-size: 20px; 
+    margin-right: 10px; 
+  }
+  
+
+  .navigation-bar {
+    margin-bottom: 20px; /* Add some margin at the bottom */
+  }
+  
+  /* Styling for buttons */
+  .navigation-bar button {
+    padding: 10px 20px; /* Add padding to the buttons */
+    margin-right: 10px; /* Add some margin between buttons */
+    border: none; /* Remove default button border */
+    border-radius: 5px; /* Add rounded corners */
+    background-color: #007bff; /* Set background color */
+    color: #fff; /* Set text color */
+    font-size: 16px; /* Set font size */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
+  .navigation-bar button:hover {
+    background-color: #0056b3; /* Darken the background color on hover */
+  }

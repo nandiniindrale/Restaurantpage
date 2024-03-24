@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "ingredients": "Spaghetti, Eggs, Bacon, Parmesan Cheese, Black Pepper",
+        "instructions": "1. Cook spaghetti according to package instructions. 2. In a bowl, whisk together eggs, grated Parmesan cheese, and black pepper. 3. In a pan, cook bacon until crispy. 4. Combine cooked spaghetti with the egg mixture and cooked bacon. Serve hot.",
+        "image": "https://i.pinimg.com/236x/0f/2a/87/0f2a87cd1a23dd8443c404c893aefda6.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "ingredients": "Chicken, Yogurt, Spices, Tomatoes, Cream",
+        "instructions": "1. Marinate chicken pieces in yogurt and spices. 2. Grill or bake the marinated chicken until cooked. 3. In a separate pan, sauté tomatoes and spices. 4. Add cream and cooked chicken to the tomato mixture. 5. Simmer until sauce thickens. Serve hot with rice or naan.",
+        "image": "https://i.pinimg.com/236x/56/08/b3/5608b33d924d13b8ff6288d964e01a00.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pad Thai",
+        "ingredients": "Rice Noodles, Shrimp, Tofu, Bean Sprouts, Eggs, Peanuts, Garlic, Shallots",
+        "instructions": "1. Soak rice noodles in warm water until softened. 2. Stir-fry garlic and shallots in a pan. 3. Add shrimp, tofu, and soaked rice noodles to the pan. 4. Push ingredients to one side, crack eggs into the pan, scramble, and mix with other ingredients. 5. Add bean sprouts and chopped peanuts. 6. Serve hot with lime wedges.",
+        "image": "https://i.pinimg.com/236x/d7/35/89/d73589a61c5de49db5c2a8b7459ddfc4.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sushi Rolls",
+        "ingredients": "Sushi Rice, Nori Seaweed, Fish (e.g., Salmon, Tuna), Cucumber, Avocado, Sesame Seeds",
+        "instructions": "1. Place nori seaweed on a bamboo sushi mat. 2. Spread sushi rice evenly on the nori, leaving a small border at the top. 3. Arrange strips of fish, cucumber, and avocado along the bottom edge of the nori. 4. Roll the sushi tightly using the bamboo mat. 5. Slice into individual pieces and sprinkle with sesame seeds. Serve with soy sauce and pickled ginger.",
+        "image": "https://i.pinimg.com/236x/a7/2f/e9/a72fe9426f21ee6a71a05b71454fb29a.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mushroom Risotto",
+        "ingredients": "Arborio Rice, Mushrooms, Onion, Garlic, White Wine, Parmesan Cheese, Vegetable Broth",
+        "instructions": "1. Sauté chopped onions and garlic in olive oil. 2. Add sliced mushrooms and cook until golden brown. 3. Stir in Arborio rice and cook until translucent. 4. Deglaze the pan with white wine and cook until absorbed. 5. Gradually add vegetable broth, stirring frequently until rice is creamy and cooked. 6. Finish with grated Parmesan cheese. Serve hot.",
+        "image": "https://i.pinimg.com/236x/f5/eb/f7/f5ebf7deff96e2302f4c4589e15f37d8.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Hummus Plate",
+        "ingredients": "Chickpeas, Tahini, Lemon Juice, Garlic, Olive Oil, Paprika, Cumin",
+        "instructions": "1. Blend chickpeas, tahini, lemon juice, garlic, and olive oil in a food processor until smooth. 2. Season with salt, paprika, and cumin to taste. 3. Transfer to a serving plate, drizzle with olive oil, and sprinkle with paprika. Serve with pita bread and vegetables.",
+        "image": "https://i.pinimg.com/236x/c5/fa/18/c5fa18370411e8ebed9d379100535e1c.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Tofu Stir Fry",
+        "ingredients": "Tofu, Bell Peppers, Broccoli, Carrots, Soy Sauce, Garlic, Ginger",
+        "instructions": "1. Press tofu to remove excess moisture, then cut into cubes. 2. Stir-fry tofu in a pan until golden brown. 3. Add chopped vegetables, garlic, and ginger to the pan. 4. Cook until vegetables are tender-crisp. 5. Add soy sauce and toss to combine. Serve hot with rice or noodles.",
+        "image": "https://i.pinimg.com/236x/d5/d3/c1/d5d3c1ec911825c8135b9c0d34a7110f.jpg"
+    }
+]
